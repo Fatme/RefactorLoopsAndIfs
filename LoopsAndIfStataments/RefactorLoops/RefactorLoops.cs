@@ -10,7 +10,7 @@ namespace LoopsAndIfStataments
         public static void Main()
         {
             int[] array = new int[100];
-            int expectedValue = 0;
+            int expectedValue = 666;
             for (int i = 0; i < array.Length; i++)
             {
                 Console.WriteLine(array[i]);
